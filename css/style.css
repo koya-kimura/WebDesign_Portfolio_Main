@@ -9,7 +9,7 @@
 /* font */
 @font-face {
     font-family: 'Quint Uppercase';
-    src: url("font/Quint\ Uppercase\ Font.otf");
+    src: url("font/QuintUppercaseFont.otf");
 }
 
 * {
@@ -190,18 +190,6 @@ a {
     margin: 15px 0;
 }
 
-/* footer */
-.footer-txt {
-    display: inline-block;
-    line-height: 60px;
-    height: 60px;
-    width: 100%;
-    letter-spacing: 3px;
-    text-align: center;
-    background-color: rgb(97, 97, 97);
-    color: #fff;
-}
-
 /* navi */
 .fixed_site_nav {
     position: fixed;
@@ -228,33 +216,33 @@ a {
     height: 100%;
 }
 
-.site_nav_item:hover {
+/* .site_nav_item:hover {
     opacity: 0.5;
     transition: 0.4s;
-}
+} */
 
 .site_nav_item_section1 {
-    background-image: url(image/navi_images/navi_section1_image.jpg);
+    background-image: url(../image/navi_images/navi_section1_image.jpg);
 }
 
 .site_nav_item_section2 {
-    background-image: url(image/navi_images/navi_section2_image.jpg);
+    background-image: url(../image/navi_images/navi_section2_image.jpg);
 }
 
 .site_nav_item_section3 {
-    background-image: url(image/navi_images/navi_section3_image.jpg);
+    background-image: url(../image/navi_images/navi_section3_image.jpg);
 }
 
 .site_nav_item_section4 {
-    background-image: url(image/navi_images/navi_section4_image.jpg);
+    background-image: url(../image/navi_images/navi_section4_image.jpg);
 }
 
 .site_nav_item_section5 {
-    background-image: url(image/navi_images/navi_section5_image.jpg);
+    background-image: url(../image/navi_images/navi_section5_image.jpg);
 }
 
 .site_nav_item_section6 {
-    background-image: url(image/navi_images/navi_section6_image.jpg);
+    background-image: url(../image/navi_images/navi_section6_image.jpg);
 }
 
 /* ------------------------------------------ */
