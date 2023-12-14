@@ -139,7 +139,7 @@ a {
 .work-garally {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 .work-content {
